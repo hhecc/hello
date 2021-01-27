@@ -27,4 +27,9 @@ mybatis:
   mapperLocations: classpath:mapper/*.xml
   type-aliases-package: com.study.springcloud.bean
 
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
 
