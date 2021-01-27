@@ -33,3 +33,5 @@ management:
       exposure:
         include: "*"
 
+config: 
+  info: is config prod!
