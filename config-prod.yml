@@ -34,4 +34,4 @@ management:
         include: "*"
 
 config: 
-  info: is config prod!
+  info: is config prod! version=1
